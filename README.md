@@ -60,7 +60,7 @@ endmodule
 ![image](https://github.com/user-attachments/assets/87e1983d-832f-4714-8322-8a6745f9b587)
 
 
-**TIMING DIAGRAM FOR IP COUNTER**
+**TIMING DIAGRAM FOR UP COUNTER**
 
 ![image](https://github.com/user-attachments/assets/88511d8e-55c0-47df-80cb-f639a0cea23b)
 
